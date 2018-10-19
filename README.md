@@ -2,6 +2,9 @@
 
 > 📖🔍 Documents of the Hycon Name Service.
 
+## Introduce Hycon
+Hyperconnected Coin is the digital asset built on top of a faster and more scalable blockchain.
+
 ## 📚 Documents
 
 #### Table of Contents
